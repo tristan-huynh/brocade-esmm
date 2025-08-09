@@ -1,2 +1,2 @@
 # brocade-esmm
-Brocade External Switch Management and Monitoring
+Brocade External Switch Management
